@@ -1,10 +1,11 @@
 ### Howdy 🐸 My name is Cai 🤗
 
-![FrogFrogsGIF](https://github.com/c8lindxson/c8lindxson/assets/128205478/388b3a32-c960-430e-9adc-c40a4fb67640)
-
 Living in Kawasaki and loving life in Japan
 I am currently trying to build my portfolio 🎆
 Check back regularly to see my projects as I grow 😊
+
+![FrogFrogsGIF](https://github.com/c8lindxson/c8lindxson/assets/128205478/388b3a32-c960-430e-9adc-c40a4fb67640)
+
 
 <!--
 **c8lindxson/c8lindxson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
