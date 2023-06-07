@@ -6,7 +6,10 @@ I am currently trying to build my portfolio 🎆
 <br>
 Check back regularly to see my projects as I grow 😊
 <br>
-![FrogFrogsGIF](https://github.com/c8lindxson/c8lindxson/assets/128205478/388b3a32-c960-430e-9adc-c40a4fb67640)
+<p align="center">
+  <img width="200" src="![FrogFrogsGIF](https://github.com/c8lindxson/c8lindxson/assets/128205478/388b3a32-c960-430e-9adc-c40a4fb67640)">
+</p>
+
 
 
 <!--
